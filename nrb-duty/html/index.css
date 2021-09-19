@@ -1,0 +1,70 @@
+body{
+    margin: 0;
+    padding: 0;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    font-size: 22px;
+}
+
+#container {
+    width: 260px;
+    height: 230px;
+    background-image: linear-gradient(rgba(28,30,34, 0.964), rgba(58, 75, 119, 0.964));
+    border-radius: 8px;
+}
+
+#mesaigir {
+    color: lightgray;
+    background-color: rgba(17, 17, 17, 0.0);
+    font-family: 'Oswald', sans-serif;
+    width: 140px;
+    margin-left: 60px;
+    margin-top: 45px;
+    font-size: 21px;
+    border: black;
+} 
+
+#mesaicik {
+    color: lightgray;
+    background-color: rgba(17, 17, 17, 0.0);
+    font-family: 'Oswald', sans-serif;
+    width: 140px;
+    margin-left: 60px;
+    margin-top: 12px;
+    font-size: 21px;
+    border: black;
+} 
+
+#mesaigir:hover {
+    color: rgba(100, 255, 80, 0.699);
+    font-family: 'Oswald', sans-serif;
+} 
+
+#mesaicik:hover {
+    color: rgba(255, 62, 62, 0.699);
+    font-family: 'Oswald', sans-serif;
+} 
+
+.diger{
+    color: black;
+    font-family: 'Oswald', sans-serif;
+    width: 210px;
+    margin-left: 350px;
+    font-size: 17px;
+    background-color: rgba(17, 17, 17, 0.0);
+    border: white;
+}
+
+#ustyazi{
+    position: fixed;
+    color: white;
+    margin-top: 13px;
+    margin-left: 75px; 
+    height: 5px;
+    font-family: 'Oswald', sans-serif;
+    border-color: darkgray;
+}
+
+  
