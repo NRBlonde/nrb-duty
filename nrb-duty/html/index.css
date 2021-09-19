@@ -47,16 +47,6 @@ body{
     font-family: 'Oswald', sans-serif;
 } 
 
-.diger{
-    color: black;
-    font-family: 'Oswald', sans-serif;
-    width: 210px;
-    margin-left: 350px;
-    font-size: 17px;
-    background-color: rgba(17, 17, 17, 0.0);
-    border: white;
-}
-
 #ustyazi{
     position: fixed;
     color: white;
